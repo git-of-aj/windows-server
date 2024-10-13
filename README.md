@@ -92,6 +92,7 @@ While technically you could function without partitions, they provide significan
 Sure! Here are the key points about a striped set without parity or mirroring in RAID (RAID 0), presented like a training session:
 
 ### 👍✅💡 Key Points of RAID 0 (Striped Set Without Parity or Mirroring)
+- [Article on RAID](https://www.easeus.com/storage-media-recovery/raid-5.html)
 
 1. **Definition:**
    - **Striping:** Data is divided into blocks and distributed across multiple drives.
