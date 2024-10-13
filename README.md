@@ -1,5 +1,5 @@
 # windows-server
-Everything Windiws Server
+Everything Windiws Server - [Trainer Handbook with Hands on and Slides SS on right side](https://koenigsolutionsltd-my.sharepoint.com/:b:/g/personal/ananay_ojha_koenig-solutions_com/EarRBhcgTVZIqfgctPGSARkBViK70Ks1WTWW-KDMYeaT-g?e=PKOC2E)
 
 # Links
 1. install windows server core (means no gui) - https://learn.microsoft.com/en-us/windows-server/administration/server-core/what-is-server-core
